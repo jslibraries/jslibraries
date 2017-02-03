@@ -1,2 +1,2 @@
 # jslibraries
-A universal database for all the Frontend Stacks and their samples
+Mashup all Stacks to make your own JS stacks
