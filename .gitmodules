@@ -7,3 +7,6 @@
 [submodule "js/move.js"]
 	path = js/move.js
 	url = https://github.com/visionmedia/move.js
+[submodule "js/EaselJS"]
+	path = js/EaselJS
+	url = https://github.com/CreateJS/EaselJS.git
