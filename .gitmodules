@@ -1,0 +1,9 @@
+[submodule "js/anime/anime"]
+	path = js/anime/anime
+	url = https://github.com/juliangarnier/anime.git
+[submodule "js/bounce.js"]
+	path = js/bounce.js
+	url = https://github.com/tictail/bounce.js
+[submodule "js/move.js"]
+	path = js/move.js
+	url = https://github.com/visionmedia/move.js
